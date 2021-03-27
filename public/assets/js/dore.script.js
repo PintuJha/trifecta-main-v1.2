@@ -2799,6 +2799,8 @@ $.dore = function(element, options) {
     $('table').DataTable();
 
 
+  
+
 
     /* 03.11. Datatable */
     // if ($().DataTable) {
